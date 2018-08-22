@@ -1,5 +1,5 @@
-rob()
-{
+#!/usr/bin/sh
+#-*- encoding: utf-8 -*-
  echo ===========================;
  echo Write your name:
  read user
@@ -360,4 +360,3 @@ IV) echo ----
  echo ===========================;
  echo [End of the Robo Asist Program];
  echo ______________________;
-}
